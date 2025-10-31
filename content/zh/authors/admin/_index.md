@@ -34,15 +34,15 @@ profiles:
     url: 'mailto:congyin@ucmerced.edu'
     label: E-mail Me
   - icon: brands/bluesky
-    url: https://bsky.app/profile/ethancyin.bsky.social
+    url: https://bsky.app/profile/cyinearth.bsky.social
   - icon: brands/weixin
     url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk3NTExMzM0MA==&action=getalbum&album_id=3910201765521752070#wechat_redirect
   - icon: brands/github
-    url: https://github.com/EthanCYin
+    url: https://github.com/CYinEarth
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/cong-yin-0812912a1
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=AaTFWdMAAAAJ&hl=en
+    url: https://scholar.google.com/citations?hl=en&user=We27bSsAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0003-8618-9659
   - icon: academicons/researchgate
