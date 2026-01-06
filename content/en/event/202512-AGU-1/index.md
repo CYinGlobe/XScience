@@ -2,7 +2,7 @@
 title: Fire Weather Waves Fuel Extreme Fire Activity
 
 event: AGU 2025
-event_url: https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1905609
+event_url: 'https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1905609'
 
 location: New Orleans Ernest N. Morial Convention Center
 address:

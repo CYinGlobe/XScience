@@ -2,7 +2,7 @@
 title: Increasing Synchronicity of Global Extreme Fire Weather
 
 event: AGU 2025
-event_url: https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1869039
+event_url: 'https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1869039'
 
 location: New Orleans Ernest N. Morial Convention Center
 address:

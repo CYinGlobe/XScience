@@ -2,7 +2,7 @@
 title: 'Strengthening Fire Preparedness and Coordination: Quantifying the Persistence and Synchronicity of Extreme Fire Weather'
 
 event: Environmental Systems Seminar
-event_url: https://es.ucmerced.edu/seminars
+event_url: 'https://es.ucmerced.edu/seminars'
 
 location: COB2 140
 address:
