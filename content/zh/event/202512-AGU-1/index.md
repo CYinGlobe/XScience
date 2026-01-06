@@ -33,15 +33,15 @@ authors:
   - Matthew W. Jones
 
 tags:
-  - Wildfires
-  - Fire weather waves
-  - Concurrent events
+  - 野火
+  - 火灾天气波
+  - 并发事件
 
 # Is this a featured talk? (true/false)
 featured: true
 
 image:
-  caption: 'At AGU 2025'
+  caption: '在AGU 2025会场'
   focal_point: Right
 
 #links:

@@ -34,15 +34,15 @@ authors:
   - 刘杨晓月
 
 tags:
-  - Wildfires
-  - Synchronous fire weather
-  - Concurrent events
+  - 野火
+  - 同步火灾天气
+  - 并发事件
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'At AGU 2025'
+  caption: '在AGU 2025会场'
   focal_point: Right
 
 #links:

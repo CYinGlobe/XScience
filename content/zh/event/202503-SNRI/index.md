@@ -34,7 +34,7 @@ tags:
   - 全球
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: '研讨会海报'

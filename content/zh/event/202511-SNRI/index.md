@@ -29,15 +29,15 @@ authors:
   - John Abatzoglou
 
 tags:
-  - Wildfire
-  - Synchronous fire weather
-  - Fire weather wave
+  - 野火
+  - 同步火灾天气
+  - 火灾天气波
 
 # Is this a featured talk? (true/false)
 featured: true
 
 image:
-  caption: 'Talk Poster'
+  caption: '报告海报'
   focal_point: Right
 
 #links:
