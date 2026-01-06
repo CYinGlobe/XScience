@@ -46,7 +46,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: '/uploads/202503-SNRI.pdf'
+url_pdf: '/uploads/202511-SNRI.pdf'
 url_slides: ''
 url_video: ''
 
