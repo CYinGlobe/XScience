@@ -17,8 +17,8 @@ abstract: 'Compound events (CEs) are attracting increased attention due to their
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12-14T08:30:00+08:00'
-date_end: '2023-12-14T12:50:00+08:00'
+date: '2023-12-14T08:30:00Z'
+date_end: '2023-12-14T12:50:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

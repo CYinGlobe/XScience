@@ -17,8 +17,8 @@ abstract: 'Extreme fire weather, characterized by exceptionally dry, warm, and o
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-11-10T15:30:00+08:00'
-date_end: '2025-11-10T16:20:00+08:00'
+date: '2025-11-10T15:30:00Z'
+date_end: '2025-11-10T16:20:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
