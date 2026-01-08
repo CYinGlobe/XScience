@@ -18,7 +18,7 @@ abstract: 'Concurrent extreme fire weather creates favorable conditions for wide
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-12-19T08:30:00Z'
-date_end: '2025-12-19T12:00:00Z'
+date_end: '2025-12-19T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
